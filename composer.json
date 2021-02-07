@@ -1,0 +1,7 @@
+{
+	"name": "kaiwessela/parsedownforblog",
+	"description": "Parsedown by Emanuil Rusev, modified for Blog.",
+	"require": {
+		"php": ">=7.0"
+	}
+}
